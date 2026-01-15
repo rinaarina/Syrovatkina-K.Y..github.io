@@ -1,1 +1,0 @@
-# Syrovatkina-K.Y..github.io
