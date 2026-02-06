@@ -1886,7 +1886,7 @@ html {
 }
 
 /* Маленькие мобильные устройства (375px) */
-@media (max-width: 375px) {
+@media (max-width: 500px) {
     .grid-container {
         padding: 0 12px;
     }
