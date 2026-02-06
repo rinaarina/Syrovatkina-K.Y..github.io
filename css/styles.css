@@ -1886,7 +1886,7 @@ html {
 }
 
 /* Маленькие мобильные устройства (375px) */
-@media (max-width: 500px) {
+@media (max-width: 600px) {
     .grid-container {
         padding: 0 12px;
     }
@@ -2142,4 +2142,5 @@ html {
     .footer-copyright {
         text-align: left; 
     }
+
 } 
