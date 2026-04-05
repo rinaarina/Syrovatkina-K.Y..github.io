@@ -1183,32 +1183,6 @@ footer {
     line-height: 1.2;
 }
 
-.footer-social {
-    grid-column: 5 / span 2;
-    display: flex;
-    gap: 32px;
-    align-items: center;
-    justify-content: center;
-}
-
-.social-link {
-    display: inline-block;
-    transition: transform 0.3s ease;
-}
-
-.social-link:hover {
-    transform: translateY(-3px);
-}
-
-.social-link:active {
-    transform: translateY(0);
-}
-
-.social-icon {
-    width: 32px;
-    height: 26px;
-    transition: all 0.3s ease;
-}
 
 .footer-right {
     grid-column: 8 / span 5;
